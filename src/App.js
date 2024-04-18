@@ -1,9 +1,8 @@
-import './App.css';
+import "./App.css";
+import Head from "./components/head/Head";
 
 function App() {
-  return (
-   <div>My Profile</div>
-  );
+  return <Head />;
 }
 
 export default App;
