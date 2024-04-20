@@ -9,14 +9,16 @@ const AboutMe = () => {
         src="/assets/images/mypic.jpeg"
         alt="my image"
       />
-      <p className="max-w-[400px]">
+      <p className="px-2 lg:px-0 max-w-[400px]">
         As a{" "}
         <span className="text-dark-teal">Senior Fullstack Web Developer</span>{" "}
         with over 8 years of experience, I specialize in creating dynamic,
         user-friendly digital solutions that enhance user engagement and drive
-        business success. <br /> My technical expertise spans a wide range of
-        modern technologies including{" "}
-        <span className="text-dark-teal">React</span>,{" "}
+        business success.
+        <br />
+        <br />
+        My technical expertise spans a wide range of modern technologies
+        including <span className="text-dark-teal">React</span>,{" "}
         <span className="text-dark-teal">JavaScript</span>,{" "}
         <span className="text-dark-teal">Angular</span> and{" "}
         <span className="text-dark-teal">Java</span>, which I leverage to
