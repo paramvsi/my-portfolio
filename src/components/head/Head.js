@@ -10,7 +10,7 @@ import {
 
 const Head = () => {
   return (
-    <div className="py-3 px-2 lg:px-3 bg-dark-teal text-white w-full flex justify-between align-middle">
+    <div className="py-3 lg:py-6 px-2 lg:px-3 bg-dark-teal text-white w-full flex justify-between align-middle">
       <h2>Paramveer Singh</h2>
 
       <section className="flex justify-end gap-3">
