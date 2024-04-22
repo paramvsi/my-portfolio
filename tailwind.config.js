@@ -4,7 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "dark-teal": "#00545A", // This is an example color code for dark teal.
+        "dark-teal": "#00545A",
+        "light-teal": "#66b2b2",
+      },
+      backgroundImage: {
+        "teal-gradient": "linear-gradient(to right , #00545A, #32A1AE )",
       },
       fontFamily: {
         playfair: ['"Playfair Display"', "serif"],
