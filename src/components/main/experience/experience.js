@@ -57,7 +57,7 @@ const Experience = () => {
             <p className="font-bold my-1">Roles and Responsiblities: </p>
             <ul className="list-disc">
               {exp.description.map((desp) => (
-                <li className="ml-5">{desp}</li>
+                <li className="ml-5 font-merriweather text-sm">{desp}</li>
               ))}
             </ul>
           </diV>
